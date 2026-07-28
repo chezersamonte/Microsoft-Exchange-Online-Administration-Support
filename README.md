@@ -6,7 +6,7 @@ A hands-on learning portfolio focused on Microsoft Exchange Online administratio
 
 🌐 **View the portfolio here:**
 
-https://chezersamonte.github.io/Microsoft-Exchange-Online-Administration-and-Support/
+[https://chezersamonte.github.io/Microsoft-Exchange-Online-Administration-and-Support/](https://chezersamonte.github.io/Microsoft-Exchange-Online-Administration-Support/)
 
 ---
 
